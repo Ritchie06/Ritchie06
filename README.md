@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Ritchie Tanya 👋
 
-<!--
-**Ritchie06/Ritchie06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Machine Learning | Generative AI
 
-Here are some ideas to get you started:
+🎓 AI & Data Science graduate passionate about building practical AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on: Strengthening my skills in Python, Machine Learning, and Generative AI through courses.
+
+🛠️ Tools & Technologies: Python · TensorFlow · Excel · SQL · Git · GitHub · Power Bi
+
+🧠 Interests: Computer Vision · Deep Learning · Generative AI · CNN
+
+🚀 Goal: Build intelligent solutions that solve real-world problems.
